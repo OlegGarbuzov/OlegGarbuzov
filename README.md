@@ -129,7 +129,6 @@ DevOps:      Docker, Nginx, CI/CD с GitHub Actions
 ## 📊 GitHub статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlegGarbuzov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegGarbuzov&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
