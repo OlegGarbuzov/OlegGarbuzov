@@ -19,18 +19,20 @@
 
 ### 🎯 Мой путь в разработке:
 
-🌱 **Самообучение Java** — начал изучать Java с нуля, экспериментировал с различными технологиями (даже с JavaFX, хотя это было просто для удовольствия! 😄)
+🌱 **Самообучение Java** — начал изучать Java с нуля, экспериментировал с различными технологиями (даже с JavaFX, который никому не нужен, хотя это было интересно! 🔥)
 
 🏢 **Промышленная разработка** — помогал внедрять технологии управления сборкой и отгрузкой заказов для маркетплейсов со склада с нуля
 
 🤖 **ML аналитика** — разрабатывал с нуля ML решения для анализа юнит-экономики на маркетплейсах
+
+🐛 **Доработка и багфиксинг** — активно участвовал в доработке задач и исправлении ошибок в существующих системах
 
 ### 💪 Что меня мотивирует:
 
 - 🔥 **Дикий интерес к новым технологиям** — постоянно изучаю что-то новое
 - ⚡ **Оптимизация процессов** — ищу способы ускорения разработки и улучшения workflow
 - 👥 **Командная работа** — самостоятельная боевая единица, но получаю огромное удовольствие от работы в команде
-- 🎨 **Чистый код** — тащусь от красивого, читаемого кода (ОКР по качеству кода — это мое второе имя! 😅)
+- 🎨 **Чистый код** — тащусь от красивого, читаемого кода (ОКР по качеству кода! 😅)
 - 📚 **Документация и архитектура** — верю в силу хорошей документации и продуманной архитектуры
 
 <div align="center">
@@ -75,7 +77,9 @@
 ```
 Backend:     Java 22, Spring Boot 3.4.4, Spring Security, PostgreSQL
 Frontend:    Thymeleaf, Bootstrap 5.3, JavaScript ES6+, Canvas API
-DevOps:      Docker, Nginx, CI/CD с GitHub Actions
+DevOps:      Docker, Nginx, полный CI/CD pipeline с GitHub Actions
+CI/CD:       Автоматическая сборка, тестирование, обфускация и деплой
+Контейнеры:  Docker Hub, автоматическое развертывание без простоя
 Тестирование: JUnit 5, Mockito, интеграционные тесты
 Безопасность: JWT, BCrypt, Bucket4j для rate limiting
 ```
@@ -108,28 +112,21 @@ DevOps:      Docker, Nginx, CI/CD с GitHub Actions
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
-### 🛠️ DevOps & Инструменты
+### 🛠️ DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🧪 Тестирование
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-FF6900?style=flat-square&logo=mockito&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub статистика
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegGarbuzov&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
@@ -152,8 +149,6 @@ DevOps:      Docker, Nginx, CI/CD с GitHub Actions
 
 <div align="center">
   
-### 💻 "Код — это поэзия, а архитектура — это искусство" 🎨
-  
-**Давайте вместе создавать что-то удивительное!** ✨
+### 💻 "Код — это поэзия, а архитектура — это искусство" ✨
 
 </div>
