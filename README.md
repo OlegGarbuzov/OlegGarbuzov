@@ -1,7 +1,7 @@
 # 👋 Привет! Меня зовут Олег Гарбузов 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/main/zootopia-sunglasses.gif" width="300px"/>
+  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/master/zootopia-sunglasses.gif" width="300px"/>
   
   ### 🚀 Java-разработчик | 💻 Энтузиаст новых технологий | 🛠️ Архитектор решений
   
@@ -36,7 +36,7 @@
 - 📚 **Документация и архитектура** — верю в силу хорошей документации и продуманной архитектуры
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/main/princess-kitty.gif" width="200px"/>
+  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/master/princess-kitty.gif" width="200px"/>
 </div>
 
 ---
@@ -85,7 +85,7 @@ CI/CD:       Автоматическая сборка, тестирование
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/main/lost-confused.gif" width="250px"/>
+  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/master/lost-confused.gif" width="250px"/>
   
   ### 🔍 Попробуй найти способ обмануть систему! 😄
   **Спойлер**: это практически невозможно 🛡️
@@ -134,7 +134,7 @@ CI/CD:       Автоматическая сборка, тестирование
 ## 🤝 Давайте сотрудничать!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/main/227a5c68c832e1482ee0e24719401272886456454cb8d8566ee1fdcad4939f6d.gif" width="200px"/>
+  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/master/227a5c68c832e1482ee0e24719401272886456454cb8d8566ee1fdcad4939f6d.gif" width="200px"/>
   
   ### 🎯 Ищу возможности присоединиться к команде профессионалов!
   
