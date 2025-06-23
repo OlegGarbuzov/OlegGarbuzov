@@ -88,7 +88,6 @@ CI/CD:       Автоматическая сборка, тестирование
   <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/master/lost-confused.gif" width="250px"/>
   
   ### 🔍 Попробуй найти способ обмануть систему! 😄
-  **Спойлер**: это практически невозможно 🛡️
 </div>
 
 ---
