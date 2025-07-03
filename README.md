@@ -1,8 +1,6 @@
 # 👋 Привет! Меня зовут Олег 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OlegGarbuzov/OlegGarbuzov/master/zootopia-sunglasses.gif" width="300px"/>
-  
+<div align="center"> 
   ### 🚀 Java-разработчик | 💻 Энтузиаст новых технологий | 🛠️ Архитектор решений
   
   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
